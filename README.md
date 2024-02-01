@@ -50,3 +50,9 @@ can add User.
 >http://localhost:8080/api/login
 
 >http://localhost:8080/api/welcome
+
+## Author
+
+👤 **Ankit Sarwar**
+
+* GitHub: [Ankit Sarwar](https://github.com/Anurag-Shukla0206)
