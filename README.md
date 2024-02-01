@@ -53,6 +53,6 @@ can add User.
 
 ## Author
 
-👤 **Ankit Sarwar**
+👤 **Anurag Shukla**
 
-* GitHub: [Ankit Sarwar](https://github.com/Anurag-Shukla0206)
+* GitHub: [Anurag Shukla](https://github.com/Anurag-Shukla0206)
